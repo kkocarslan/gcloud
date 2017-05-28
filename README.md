@@ -1,2 +1,2 @@
 # gcloud
-Sharing custom scripts for gcloud 
+Sharing custom automation scripts for gcloud 
